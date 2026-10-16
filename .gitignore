@@ -1,0 +1,28 @@
+# Unity: automatisch erzeugte lokale Dateien
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/UIElementsSchema/
+/.vs/
+/.idea/
+/.gradle/
+/.utmp/
+
+# IDE- und Betriebssystemdateien
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.DotSettings.user
+.DS_Store
+Thumbs.db
+Desktop.ini
